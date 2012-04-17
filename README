@@ -1,0 +1,15 @@
+Android Based Optical Character Reader
+
+Can work with a previously saved picture or direct snapshot from camera's phone.
+Uses weOCR servers for image processing.
+
+Author:Pratik Anand
+github:github.com/pratikone
+
+Image cropper code forked from :
+Android Image Cropper
+--------------------
+
+Sample project on how to select and crop image on Android
+Lorensius W. L. T <lorenz@londatiga.net>
+Website: http://www.londatiga.net
