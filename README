@@ -3,7 +3,7 @@ Android Based Optical Character Reader
 Can work with a previously saved picture or direct snapshot from camera's phone.
 Uses weOCR servers for image processing.
 
-Author:Pratik Anand
+Author:Pratik Anand and Sanjay Kasi
 github:github.com/pratikone
 
 Image cropper code forked from :
